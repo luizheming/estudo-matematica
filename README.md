@@ -1,0 +1,1 @@
+Repositório com anotações do estudo de conceitos matemáticos para aprendizado de máquina
